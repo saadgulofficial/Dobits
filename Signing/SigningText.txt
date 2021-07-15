@@ -1,0 +1,11 @@
+
+Name =                  Saad Gul
+Organization unit =     Bellatrix Technology
+Organization =          Bellatrix Technology
+Locality =              Islamabad
+Country Code =          +92
+
+MYAPP_UPLOAD_STORE_FILE=my-upload-key.keystore
+MYAPP_UPLOAD_KEY_ALIAS=my-key-alias
+MYAPP_UPLOAD_STORE_PASSWORD= Android
+MYAPP_UPLOAD_KEY_PASSWORD= Android

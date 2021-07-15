@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433954261777",
+    "project_id": "mapchat-b4252",
+    "storage_bucket": "mapchat-b4252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433954261777:android:208b3b34ba3debdb961ab0",
+        "android_client_info": {
+          "package_name": "com.dobits.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433954261777-938i01ql1019mck1effdi9icegqvs0u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4vM7NLvZuYyOa-3CzDOi3Ahz5UlT1WR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433954261777-938i01ql1019mck1effdi9icegqvs0u3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "433954261777-3012lfr5hhcdnd0i95o4t9a5v25dfgc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mapchat",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
